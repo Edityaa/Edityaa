@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edityaa
-- 👀 I’m interested in C++ and ML
+- 👀 I’m interested in DS and AI ML
 - 🌱 I’m currently learning curretly Learning ML
 - 💞️ I’m looking to collaborate on More ML Projects and Some C++ ones too
 - 📫 How to reach me Just mail me
