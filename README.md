@@ -1,16 +1,11 @@
+
+#  About Me:
+💬 I am Aditya kumar a Data Science and AI ML Enthusiast.<br>
 - 👋 Hi, I’m @Edityaa
 - 👀 I’m interested in DS and AI ML
 - 🌱 I’m currently learning curretly Learning ML
 - 💞️ I’m looking to collaborate on More DS,AI ML Projects and Some C++ mini Projects  too
 - 📫  Just mail me at itsaditya2005@gmail.com
-  
-
-<!---
-Edityaa/Edityaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#  About Me:
-💬 I am Aditya kumar a Data Science and AI ML Enthusiast.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakumar2005/) 
@@ -29,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## Watch Snake eating my GitHub contributions:
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="800">
 <br><br>
+
